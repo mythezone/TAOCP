@@ -1,12 +1,4 @@
-![logo](_media/icon.svg)
+# docsify website sample <small>0.0.1</small>
 
-# docsify <small>4.13.0</small>
-
-> A magical documentation site generator.
-
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Getting Started](#docsify)
+<a href="https://github.com/lexmin0412/docsify-website-sample">Github</a>
+<a href="#README">Get Started</a>

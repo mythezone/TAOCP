@@ -1,3 +1,3 @@
-- Getting started
+- 开始
 
-  - [Quick start](quickstart.md)
+  - [概述](/README.md)
