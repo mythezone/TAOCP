@@ -1,1 +1,1 @@
-Maintained by [Mythezone](https://www.mythezone.com).
+Maintained by [Mythezone](https://www.mythezone.com). Contact me: [Gmail](mythezone@gmail.com)
