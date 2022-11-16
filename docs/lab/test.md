@@ -31,6 +31,6 @@ import time,random
 \end{algorithm}
 ```
 
-<!-- ko-fi :id=<id> :color=#fff -->
-    Support Me on Ko-fi
+<!-- ko-fi :id=<id> :color=#000 -->
+    给我点杯咖啡~
 <!-- ko-fi -->
