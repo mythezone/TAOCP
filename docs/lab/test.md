@@ -30,3 +30,7 @@ import time,random
 \end{algorithmic}
 \end{algorithm}
 ```
+
+<!-- ko-fi :id=<id> :color=#fff -->
+    Support Me on Ko-fi
+<!-- ko-fi -->
