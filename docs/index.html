@@ -14,6 +14,8 @@
     <!-- 暗黑主题插件样式 -->
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
         title="docsify-darklight-theme" type="text/css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/pseudocode@latest/build/pseudocode.min.css">
+
 </head>
 
 <body>
@@ -173,6 +175,16 @@
                     }
                 }
             },
+            //伪代码
+            pseudocode: {
+                indentSize: '1.2em',
+                commentDelimiter: '//',
+                lineNumber: false,
+                lineNumberPunc: ':',
+                noEnd: false,
+                titlePrefix: 'Algorithm'
+            },
+
         }
     </script>
 </body>
@@ -210,6 +222,10 @@
 <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
 <!-- Latex page -->
+
+<script src="https://cdn.jsdelivr.net/npm/pseudocode@latest/build/pseudocode.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/h-hg/docsify-pseudocode/dist/docsify-pseudocode.min.js"></script>
+<!-- 伪代码 -->
 
 
 <!-- drawio -->
