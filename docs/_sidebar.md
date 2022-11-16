@@ -27,3 +27,5 @@
     - [第4章 算术](/MMIX/part2-chapter1.md)
     - [第5章 排序](/MMIX/part2-chapter1.md)
     - [第6章 查找](/MMIX/part2-chapter1.md)
+
+- [Lab](/lab/test.md)
