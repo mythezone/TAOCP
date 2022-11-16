@@ -19,7 +19,7 @@
 
 - [MMIX 增补](/MMIX/README.md)
   - [第一部分 MMIX：新千年的精简指令集计算机](/MMIX/part1.md)
-    - [第一章 基本概念](/MMIX/part1-chapter1.md)
+    - [第1章 基本概念](/MMIX/part1-chapter1.md)
   - [第二部分 MMIX增补](/MMIX/part2.md) 
     - [第1章 基本概念](/MMIX/part2-chapter1.md)
     - [第2章 信息结构](/MMIX/part2-chapter1.md)
